@@ -289,7 +289,7 @@
   "type":"可视化",
   "txt":"质量监控，质量预警、质量检测事件等对企业进行质量监控和预警，展示各公司和各省的质量状况。"
 },{
-  "name":"九次方综合管理系统",
+  "name":"f3f综合管理系统",
   "url":"https://f3f.github.io/weifang-government-affairs/html/index.html",
   "img":"./img/Project/oneTeam/zongheguanli.jpg",
   "technology":"jquery,css3",
@@ -305,13 +305,13 @@
   "type":"PC",
   "txt":"利用工商全景大数据库构建市场监管风险预警机制，挖掘业务关联，精准定位监管难点重点，并通过“机器学习”模式自动生成处置建议，采取预防措施，合理调配监管力量，提高监管效率；通过可视化图表进行宏观经济趋势分析、经济结构调整分析、资本流动趋势预判、就业需求景气预测等在内的各类辅助决策信息支持与数据验证，帮助各级政府与职能部门提高政策决策能力与市场掌控能力。"
 },{
-  "name":"九次方民意云大数据平台",
+  "name":"f3f民意云大数据平台",
   "url":"https://yangyongguan.github.io/big-data/minyi/html/login.html",
   "img":"./img/Project/oneTeam/minyiyun.jpg",
   "technology":"jquery,echarts,handlebars",
   "time":"2017年4月",
   "type":"PC",
-  "txt":"九次方民意云大数据平台，通过大数据手段对收集到的民意数据进行研判分析，建立预测预警模型，精准覆盖民意热点。"
+  "txt":"f3f民意云大数据平台，通过大数据手段对收集到的民意数据进行研判分析，建立预测预警模型，精准覆盖民意热点。"
 },{
   "name":"涉税大数据平台",
   "url":"https://f3f.github.io/tax/dist/html/login/login.html",
@@ -345,13 +345,13 @@
   "type":"可视化",
   "txt":"数据采集、共享交互、数据清洗、建模分析一体的大数据共享融合平台；对汇聚到平台的数据进行编目，将数据目录化（可以把资源目录理解为一本书的目录，数据就是书中的内容），便于对外提供数据服务"
 },{
-  "name":"九次方官网2.0",
-  "url":"https://f3f.github.io/jusfoun",
-  "img":"./img/Project/publicTeam/jusfoun.jpg",
+  "name":"f3f官网2.0",
+  "url":"https://f3f.github.io/f3f",
+  "img":"./img/Project/publicTeam/f3f.jpg",
   "technology":"jquery,css3,echarts,SVG,bootstrap",
   "time":"2016年3月",
   "type":"PC",
-  "txt":"九次方大数据（JUSFOUN BIGDATA)是中国领先的大数据服务公司。秉承“贡献中国数据智慧，释放全球数据价值”的发展理念，致力于推动政府数据公开及数据交易，挖掘各个产业的大数据价值及大数据应用。"
+  "txt":"秉承“贡献中国数据智慧，释放全球数据价值”的发展理念，致力于推动政府数据公开及数据交易，挖掘各个产业的大数据价值及大数据应用。"
 },{
   "name":"安易行app",
   "url":"./phone.html?url=https://f3f.github.io/big-data/slb/index.html",
