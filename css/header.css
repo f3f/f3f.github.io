@@ -10,7 +10,7 @@
     height: 45px;
     padding: 0 0 0 55px;
     margin: 0;
-    background: url(../img/logo.png) no-repeat scroll 0 0 transparent;
+    /* background: url(../img/logo.png) no-repeat scroll 0 0 transparent; */
     background-size: 45px;
     font-size: 18px;
     font-weight: bold;
